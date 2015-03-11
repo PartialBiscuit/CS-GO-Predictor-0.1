@@ -1,0 +1,5 @@
+C:\Users\MarcinT\Documents\Visual Studio 2013\Projects\Decisions\Decisions\bin\Release\Decisions.exe.config
+C:\Users\MarcinT\Documents\Visual Studio 2013\Projects\Decisions\Decisions\bin\Release\Decisions.exe
+C:\Users\MarcinT\Documents\Visual Studio 2013\Projects\Decisions\Decisions\bin\Release\Decisions.pdb
+C:\Users\MarcinT\Documents\Visual Studio 2013\Projects\Decisions\Decisions\obj\Release\Decisions.exe
+C:\Users\MarcinT\Documents\Visual Studio 2013\Projects\Decisions\Decisions\obj\Release\Decisions.pdb

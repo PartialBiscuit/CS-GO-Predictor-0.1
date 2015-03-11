@@ -129,13 +129,7 @@ namespace Decisions
                 message = ("No way, mate. Even a kangaroo can't carry them to the finals.");
 
 
-
-
-
-            else
-
-
-                message = ("Sorry, we didn't understand.");
+            
             Console.WriteLine(message);
 
 
